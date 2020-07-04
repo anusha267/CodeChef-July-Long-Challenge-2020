@@ -1,2 +1,2 @@
 # CodeChef-July-Long-Challenge-2020
-Solutions of July Long Challenge
+Solutions of July Long Challenge 2020
